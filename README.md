@@ -1,6 +1,6 @@
 # Devices
 
-This repository dependency for [maker.](https://github.com/mifirmware/maker)
+This repository dependency for [Mi Firmware.](https://github.com/mifirmware/mifirmware)
 
 ## Available Devices
 
